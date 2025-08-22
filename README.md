@@ -1,5 +1,4 @@
-# 请使用最新库： `https://github.com/Jiaxxii/UniDeepSeek`
-
+# [请使用最新库: `https://github.com/Jiaxxii/UniDeepSeek`](https://github.com/Jiaxxii/UniDeepSeek)
 # DeepSeek Unity Chat Integration
 
 - 本README由deepseek-r1生成
